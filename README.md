@@ -5,5 +5,4 @@ A recreation of the Google Homepage using HTML & CSS. It took much more time tha
 
 I actually quit and moved on for a few weeks while digesting the information. I am quite satisfied with the product.
 
-## Subheader
-Nevermind.. I deleted it
+Update: I accidentally deleted ALL my work while learning to push this to GitHub. I recreated to the best of my patience and ability and have repubilshed. Over time I plan to update the code to be cleaner and more percise.
